@@ -2,17 +2,7 @@
 //This is the main program in the whole assigments as it contains allt he needed functions and imports every other class
 //the program has 5 tasks, from 0 to 4, which need different classes to be solve]
 
-package MyZoo;
-
 import java.util.*;
-
-import Animal.Animal;
-import Animal.Carnivore.*;
-import Animal.Herbivore.*;
-import Animal.Omnivore.*;
-import Home.*;
-import Food.*;
-
 public class MyZoo {
 
     List<FoodStorage> foodStorages;

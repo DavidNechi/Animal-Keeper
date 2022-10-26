@@ -1,11 +1,7 @@
 
 //The class Home is created to store and solve problems regarding the habitats of the animnals(cages and enclousres)
 //as well as the rules that apply to it
-
-package Home;
-
 import java.util.*;
-import Animal.Animal;
 
 public abstract class Home {
 

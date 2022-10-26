@@ -1,7 +1,4 @@
-
 //creating the class food so that the program can buy food and discard food
-
-package Food;
 
 public class FoodStorage extends Food {
 

@@ -2,8 +2,6 @@
 //The class Animal is the main class as every entity in the zoo are animals, and have common traits,
 //such as a name and the fact that they need to eat food 
 
-package Animal;
-import Food.Food;
 import java.util.List;
 
 

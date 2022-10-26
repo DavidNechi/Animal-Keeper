@@ -3,11 +3,6 @@
 // such as food in our example
 
 //The class Herbivore extends the class animal because these hrbivores are first of all animals
-
-package Animal.Herbivore;
-
-import Animal.Animal;
-import Food.Food;
 import java.util.*;
 
 public class Herbivore extends Animal {

@@ -4,14 +4,8 @@
 
 //The class carnivore extends the class animal because these animals are first of all animals
 
-package Animal.Carnivore;
-
-import Food.Food;
 import java.util.*;
-
 import java.util.Arrays;
-
-import Animal.Animal;
 
 public class Carnivore extends Animal {
 

@@ -1,8 +1,6 @@
 
 //Creating the class Food, so the program can solve probelms like buying food and feeding animals
 
-package Food;
-
 public class Food {
 
     private String type;

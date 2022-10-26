@@ -4,8 +4,6 @@
 //The difference with the Antelope class is that it is not allowed to eat any carrots,
 //so the list of food atributed to it needs to have carrots deleted, but just for him
 
-package Animal.Herbivore;
-
 public class Antelope extends Herbivore {
 
     public Antelope(String name) {

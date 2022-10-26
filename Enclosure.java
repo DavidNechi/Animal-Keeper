@@ -1,11 +1,6 @@
 
 //creating the class enclosure which can only contain six animals
 
-package Home;
-
-import Animal.Animal;
-import Animal.Carnivore.Carnivore;
-
 public class Enclosure extends Home {
 
     // if an ecnlosure already contains six animals it returns false,

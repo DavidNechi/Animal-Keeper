@@ -1,13 +1,7 @@
 
 //creating the Omnivore class which only contains bears, which eat carrots, beef and chicken 
 //The class extends the class Animal beacuse sbears are first of all animals
-
-package Animal.Omnivore;
-
 import java.util.*;
-
-import Animal.Animal;
-import Food.Food;
 
 public class Omnivore extends Animal {
 

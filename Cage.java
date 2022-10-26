@@ -1,13 +1,6 @@
 
 //creating the class Cages in which only carnivor animals can stay only one at a time
 
-package Home;
-
-import Animal.Animal;
-import Animal.Carnivore.Carnivore;
-import Animal.Herbivore.Herbivore;
-import Animal.Omnivore.Omnivore;
-
 public class Cage extends Home {
 
     // if the added animal is herbivore the method return false,

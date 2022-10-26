@@ -5,7 +5,6 @@
 //for every task, if a task returns  false than it means that an error occured during the procces and the task is 
 //outouted with a ! at the end, refering to the existing error.
 
-import MyZoo.MyZoo;
 import java.util.*;
 
 public class AnimalKeeper {
